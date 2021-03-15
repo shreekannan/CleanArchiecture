@@ -1,0 +1,15 @@
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/bin/Debug/net5.0/AppInsights.Core.deps.json
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/bin/Debug/net5.0/AppInsights.Core.dll
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/bin/Debug/net5.0/ref/AppInsights.Core.dll
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/bin/Debug/net5.0/AppInsights.Core.pdb
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/bin/Debug/net5.0/AppInsights.SharedKernel.dll
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/bin/Debug/net5.0/AppInsights.SharedKernel.pdb
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/obj/Debug/net5.0/AppInsights.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/obj/Debug/net5.0/AppInsights.Core.AssemblyInfoInputs.cache
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/obj/Debug/net5.0/AppInsights.Core.AssemblyInfo.cs
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/obj/Debug/net5.0/AppInsights.Core.csproj.CoreCompileInputs.cache
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/obj/Debug/net5.0/AppInsights.Core.csproj.CopyComplete
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/obj/Debug/net5.0/AppInsights.Core.dll
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/obj/Debug/net5.0/ref/AppInsights.Core.dll
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/obj/Debug/net5.0/AppInsights.Core.pdb
+/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/obj/Debug/net5.0/AppInsights.Core.csprojAssemblyReference.cache

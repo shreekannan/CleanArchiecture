@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "i6nrmZ8ykcTShyf5pequcrja+vL/WsZOeRZJiWLASUoX0cvPhAO8m00ioBMp7yDmeO4IOPizuszRqHZh7OyI4g==",
+  "success": true,
+  "projectFilePath": "/Users/kannappankalisamy/Workspace/AppInsights/src/AppInsights.Core/AppInsights.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/kannappankalisamy/.nuget/packages/ardalis.guardclauses/3.1.0/ardalis.guardclauses.3.1.0.nupkg.sha512",
+    "/Users/kannappankalisamy/.nuget/packages/ardalis.result/3.1.0/ardalis.result.3.1.0.nupkg.sha512",
+    "/Users/kannappankalisamy/.nuget/packages/ardalis.specification/5.0.3/ardalis.specification.5.0.3.nupkg.sha512",
+    "/Users/kannappankalisamy/.nuget/packages/jetbrains.annotations/2019.1.3/jetbrains.annotations.2019.1.3.nupkg.sha512",
+    "/Users/kannappankalisamy/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
