@@ -15,4 +15,32 @@ You should **fork this repository** only if you plan on submitting a pull reques
 
 You should **clone this repository** if you're one of the contributors and you have commit access to it. Otherwise you probably want one of the other options.
 
-# Goals
+## Technology Stack
+
+.NET 5.0
+SQLLite - Database ( initial seed will create a database table and insert the mock data)
+EF Core 5.0.4 
+Swagger API Doc
+
+
+##Build and Release
+
+Azure dev ops build and relesae pipelines are configured to build and deploy the latest code from main brachn to azure app services
+
+https://dev.azure.com/kannappankalisamy0761/AppInsights/
+
+
+
+##API
+/api/AppInsights?clientId=xyz-0001" 
+
+##DTO
+ActivityLogDTO
+ActivityDateTimeUTC - DateTime
+ServerName - HostName string
+isOnline - Bool ( True/False)
+
+
+
+## Azure Web APP/ APIM Url
+
